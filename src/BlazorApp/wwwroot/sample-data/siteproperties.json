@@ -2,11 +2,11 @@
   "name": "John Doe",
   "title": "Software Engineer",
   "email": "John.Doe@example.com",
-  "devDotTo": null,
+  "devDotTo": "dummy-devdotto",
   "gitHub": "microsoft",
   "instagram": "microsoft",
   "linkedIn": "satyanadella",
-  "medium": "",
+  "medium": "dummy-medium",
   "twitter": "microsoft",
   "youTube": "dotnet"
 }
